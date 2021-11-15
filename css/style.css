@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Great+Vibes&family=Lora&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 20px;
+
+}
+
+h1 {
+	font-family: 'Great Vibes', cursive;
+	font-size: 80px;
+	font-weight: lighter;
+	color:rgb(247, 227, 206);
+
+}
+h2,h3 {
+	font-family: 'Cookie', cursive;
+	font-size: 35px;
+	font-weight: 400;
+	color: rgb(101, 30, 11);
+}
